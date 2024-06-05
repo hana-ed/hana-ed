@@ -11,5 +11,3 @@
 - Playing and developing video games
 
 ![](https://komarev.com/ghpvc/?username=hanaeddoud-poc&color=green&style=flat-square)
-
-![Hana's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanaeddoud-poc&show_icons=true&theme=aura)
