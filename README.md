@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello I'm Hana!
 
-<!--
-**hanaeddoud-poc/hanaeddoud-poc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About me
+I am a developer specialized in Artificial Intelligence, more specifically in the principles of Data Science (Python, R, SQL).
+I have also worked on projects requiring the mastery of Java, C++, C# as well as web programming.
+My OS of choice is Linux 🐧
 
-Here are some ideas to get you started:
+## 🌱 Interests and Hobbies
+Listening to long podcasts on various subjects
+Exploring new cultures and languages
+Playing and developing video games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=hanaeddoud-poc&color=green)
