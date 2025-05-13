@@ -1,13 +1,14 @@
 ## Hello I'm Hana 🌸
 
 ## 🌟 About me
-- I am a developer specialized in Artificial Intelligence, more specifically in the principles of Data Science (Python, R, SQL).
-- I have also worked on projects requiring the mastery of Java, C++, C# as well as web programming.
-- My OS of choice is Linux 🐧 
+- I'm a developer with a strong background in artificial intelligence, data science, and software engineering.
+- I have also worked on several projects, focusing on Python, R, and SQL to build clean, scalable solutions for data processing, ML, and automation.
+- I work across both Linux and Windows (but Linux has my heart 🐧).
+- I mostly use VS Code, and I'm comfortable jumping between solo work and agile team settings.
 
 ## 🌱 Interests and Hobbies
-- Listening to long podcasts on various subjects
-- Exploring new cultures and languages
-- Playing and developing video games
+- Listening to long podcasts on science, tech, culture and history
+- Learning languages and exploring new cultures
+- Playing video games and slowly learning to build them
 
 ![](https://komarev.com/ghpvc/?username=hanaeddoud-poc&color=green&style=flat-square)
